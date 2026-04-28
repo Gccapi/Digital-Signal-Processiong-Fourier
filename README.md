@@ -16,7 +16,4 @@ Ce projet explore les fondements de la **Transformée de Fourier Discrète (TFD)
 
 ##  Auteurs
 - Florian Alaux
-- Julie Lendroit
 - Laurie Torregrossa
-- Thomas Lecuyer
-- Jolan Vassil
